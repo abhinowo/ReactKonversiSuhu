@@ -6,10 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-##Requirements to install
-npm install --save styled-components
-npm install antd
-npm install react-router-dom
+## Requirements to install
+`npm install --save styled-components`
+`npm install antd`
+`npm install react-router-dom`
 
 ### `yarn start`
 
